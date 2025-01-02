@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "96846652125",
+    "firebase_url": "https://xbcad-ac6b1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "xbcad-ac6b1",
+    "storage_bucket": "xbcad-ac6b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96846652125:android:1c1043f3843eb6e994b134",
+        "android_client_info": {
+          "package_name": "com.example.kotlintodopractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBUMXc-pvc6WIq9HKajk8-KX9XQ9n3jNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
