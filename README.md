@@ -1,4 +1,4 @@
-# Rihlazana Auction Catalog Application
+#Auction Catalog Application
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org)
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Rihlazana Auction Catalog is a modern Android application built with Kotlin that streamlines the management and presentation of auction items. This application provides a comprehensive solution for auction houses and collectors to catalog, track, and manage their items with features like real-time updates, image management, and PDF catalog generation.
+Auction Catalog is a modern Android application built with Kotlin that streamlines the management and presentation of auction items. This application provides a comprehensive solution for auction houses and collectors to catalog, track, and manage their items with features like real-time updates, image management, and PDF catalog generation.
 
 ## 🚀 Key Features
 
