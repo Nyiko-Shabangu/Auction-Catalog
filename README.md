@@ -175,14 +175,5 @@ We welcome contributions! Please follow these steps:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-- Documentation: [docs.rihlazana.com](https://docs.rihlazana.com)
-- Issues: [GitHub Issues](https://github.com/your-organization/rihlazana-auction-catalog/issues)
-- Email: support@rihlazana.com
 
 
